@@ -20,4 +20,3 @@ const path=require('path')
 
 //concate path
 // console.log(path.join(__dirname,'test','hello.html'))---------->C:\Users\youcode\Desktop\simple-app-with-node\reference\test\hello.html
-
